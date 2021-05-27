@@ -1,0 +1,24 @@
+{
+  "name": "predstock-tests",
+  "version": "1.0.0",
+  "description": "predstock tests",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardo-tavares-santos/predstock-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardo-tavares-santos/predstock-tests/issues"
+  },
+  "homepage": "https://github.com/ricardo-tavares-santos/predstock-tests#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yahoo-stock-prices": "^1.1.0"
+  }
+}
